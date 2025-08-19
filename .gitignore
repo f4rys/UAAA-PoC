@@ -206,13 +206,10 @@ marimo/_static/
 marimo/_lsp/
 __marimo__/
 
-# Reference implementations
-FFF/
-GD-UAP/
-PSP-UAP/
-
-# Original papers
+# Original papers, source and implementations
 papers/
+papers-source/
+implementations/
 
 # LibriSpeech dataset
 LibriSpeech/
